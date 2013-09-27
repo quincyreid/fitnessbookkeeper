@@ -1,0 +1,16 @@
+/*
+ Theme Name: Sport - child theme
+ Theme URI: http://www.cro.ma
+ Author URI: http://www.cro.ma
+ Description: Sport Child Theme
+ Author: Croma
+ Template: sport
+ Version: 1.0
+ License: GNU General Public License
+ License URI: license.txt
+ Tags: two-columns, fixed-width, threaded-comments, editor-style, custom-menu
+ */
+
+
+ @import url("../sport/style.css");
+ @import url("../sport/public/styles/site.css");

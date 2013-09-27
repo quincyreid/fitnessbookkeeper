@@ -1,0 +1,42 @@
+<p>
+	Sport & Fitness is a theme suitable for <strong>Health clubs, sport clubs gyms and trainers</strong>
+</p>
+
+<p>
+	<strong>Unique features:</strong>
+</p>
+
+<ul>
+	<li>Timetable creator</li>
+	<li>Tariff table creator</li>
+	<li>Deep Google maps integration(even driving directions)</li>
+	<li>Events and Calendars</li>
+	<li>Full set of help video's' to get you started.</li>
+</ul>
+
+<p>Other Features includes </p>
+
+<h3>Responsive Layout</h3>
+<p>The theme adapts accross devices.</p>
+<br/>
+<img src="http://assets.cro.ma/themedesc1.jpg">
+<br/><br/>
+
+<h3>Layerslider included</h3>
+<p>Layerslider is included in the theme allowing you full control over your slideshows. Now you can control your slideshows "Like a BOSS".</p>
+<br/>
+<img src="http://assets.cro.ma/themedesc2.jpg">
+
+
+<h3>Available in any color</h3>
+<p>Set the colors with a colorpicker for full control and compliance with your color scheme.</p>
+<br/>
+<img src="http://assets.cro.ma/themedesc2.jpg">
+
+
+<h3>Easy peazy timetables</h3>
+<p>Our Timetable manager will let you set timetables and excersize rosters with ease. for unlimited activities and will enable you to link to the trainers of that activities</p>
+<br/>
+<img src="http://assets.cro.ma/themedesc2.jpg">
+
+
